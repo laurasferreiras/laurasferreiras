@@ -31,11 +31,3 @@ Conceitos: Lógica de Programação, Estruturas de Dados, Desenvolvimento Web
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=laurasferreiras&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Laura" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasferreiras&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
-
-
- Vamos nos conectar?
-Você pode me encontrar nos canais abaixo para trocarmos ideia sobre tecnologia, projetos ou oportunidades profissionais:
-LinkedIn: Laura Ferreira (Lembre-se de atualizar com o seu link)
-E-mail: laurasferreira6@gmail.com
-
-"Código limpo sempre parece que foi escrito por alguém que se importa."
