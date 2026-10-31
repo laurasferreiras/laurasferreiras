@@ -16,6 +16,7 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,postgresql,git,github,vscode" alt="Tecnologias da Laura" />
 </div>
 
+
 Linguagens: Python, JavaScript, HTML5, CSS3
 
 Banco de Dados: SQL, PostgreSQL
@@ -23,6 +24,7 @@ Banco de Dados: SQL, PostgreSQL
 Ferramentas & Controle de Versão: Git, GitHub, VS Code
 
 Conceitos: Lógica de Programação, Estruturas de Dados, Desenvolvimento Web
+
 
  Estatísticas do GitHub
 <p align="center">
