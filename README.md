@@ -11,6 +11,7 @@
 
 
  Tecnologias e Ferramentas
+ 
 Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho e estudo:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,postgresql,git,github,vscode" alt="Tecnologias da Laura" />
