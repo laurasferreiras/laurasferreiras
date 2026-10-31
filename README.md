@@ -17,8 +17,11 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 </div>
 
 Linguagens: Python, JavaScript, HTML5, CSS3
+
 Banco de Dados: SQL, PostgreSQL
+
 Ferramentas & Controle de Versão: Git, GitHub, VS Code
+
 Conceitos: Lógica de Programação, Estruturas de Dados, Desenvolvimento Web
 
  Estatísticas do GitHub
